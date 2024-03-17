@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40e0dd7a26d0ea84890a0ccc76ee762e, type: 3}
+  m_Name: Loading Config
+  m_EditorClassIdentifier: 
+  basicsLoadingDataset: {fileID: 11400000, guid: d4ca1421529232840808c65c5a179df6,
+    type: 2}
+  initialLoadingDataset: {fileID: 11400000, guid: 9920d648eee3e9947b108d69cb0a5e5c,
+    type: 2}
+  _minLoadingTime: 2
